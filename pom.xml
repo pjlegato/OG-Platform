@@ -43,14 +43,14 @@
     <repository>
       <id>og-public</id>
       <name>OG Public</name>
-      <url>http://maven.opengamma.com/nexus/content/groups/public</url>
+      <url>http://maven.opengamma.com/public</url>
     </repository>
   </repositories>
   <pluginRepositories>
     <pluginRepository>
       <id>og-public</id>
       <name>OG Public</name>
-      <url>http://maven.opengamma.com/nexus/content/groups/public</url>
+      <url>http://maven.opengamma.com/public</url>
     </pluginRepository>
   </pluginRepositories>
 
